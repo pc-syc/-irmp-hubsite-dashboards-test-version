@@ -314,7 +314,7 @@ body {
 
 /* New: Bottom Assessment Summary text block */
 .assessment-summary {
-  margin-top: 50px;
+  margin-top: 0px;
   margin-bottom: 50px;
   text-align: center;
   width: 100%;
