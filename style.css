@@ -314,8 +314,8 @@ body {
 
 /* New: Bottom Assessment Summary text block */
 .assessment-summary {
-  margin-top: 10px;
-  margin-bottom: 30px;
+  margin-top: 0px;
+  margin-bottom: 50px;
   text-align: center;
   width: 100%;
 }
@@ -335,7 +335,7 @@ body {
   max-width: 1000px;
   border: none;
   border-top: 2px solid #ccc;
-  margin: 40px 0;
+  margin: 20px 0;
 }
 
 /* Responsive design */
